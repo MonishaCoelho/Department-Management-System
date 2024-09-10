@@ -1,0 +1,54 @@
+<!-- <section class="bg-light py-5">
+                <div class="container px-5 my-5">
+                    <!--<div class="text-center mb-5">
+                        <h1 class="fw-bolder">Admin Control</h1>
+                        <p class="lead fw-normal text-muted mb-0"></p>
+                    </div>-->
+                    <div class="row gx-5 justify-content-center">
+                        <div class="col-lg-6 col-xl-4">
+                            <div class="card mb-0 mb-xl-0">
+                                <div class="card-body p-5">
+                                    <div class="mb-3">
+                                        <p class="text-center" style="font-weight: bold; font-size: 40px;">Student</p>
+                                    </div><br>
+                                    <div class="d-grid"><a class="btn btn-outline-primary" href="student.php">Add Student</a></div><br>
+                                    <div class="d-grid"><a class="btn btn-outline-primary" href="display_student.php">Student List</a></div><br>
+				    <div class="d-grid"><a class="btn btn-outline-primary" href="project.php">Add Project</a></div><br>
+                                    <div class="d-grid"><a class="btn btn-outline-primary" href="mooc_course.php">Add MOOC</a></div><br>
+                                    <div class="d-grid"><a class="btn btn-outline-primary" href="internship.php">Add Internship</a></div><br>
+                                    <div class="d-grid"><a class="btn btn-outline-primary" href="marks.php">Add Marks</a></div><br>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-xl-4">
+                            <div class="card mb-0 mb-xl-0">
+                                <div class="card-body p-5">
+                                    <div class="mb-3">
+                                        <p class="text-center" style="font-weight: bold; font-size: 40px;">Department</p>
+                                    </div><br>
+                                    <div class="d-grid"><a class="btn btn-outline-primary" href="department.php">Add Department</a></div><br>
+                                    <div class="d-grid"><a class="btn btn-outline-primary" href="faculty.php">Add Faculty</a></div><br>
+                                    <div class="d-grid"><a class="btn btn-outline-primary" href="display_faculty.php">Faculty List</a></div><br>
+                                    <div class="d-grid"><a class="btn btn-outline-primary" href="course.php">Add Course</a></div><br>
+                                    <div class="d-grid"><a class="btn btn-outline-primary" href="section.php">Add Section</a></div><br>
+				    <div class="d-grid"><a class="btn btn-outline-primary" href="teacher_activities.php">Add Teacher Activity</a></div><br>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-xl-4">
+                            <div class="card">
+                                <div class="card-body p-5">
+                                    <div class="mb-3">
+                                        <p class="text-center" style="font-weight: bold; font-size: 40px;">Quick Links</p>
+                                    </div><br>
+                                    <div class="d-grid"><a class="btn btn-outline-primary" href="file/calendar.pdf" target="_blank">Academic Calendar</a></div><br>
+                                    <div class="d-grid"><a class="btn btn-outline-primary" href="file/syllabus.pdf" target="_blank">Syllabus</a></div><br>
+				    <div class="d-grid"><a class="btn btn-outline-primary" href="file/timetable.pdf" target="_blank">Class Time Table</a></div><br>
+                                    <div class="d-grid"><a class="btn btn-outline-primary" href="file/see.pdf" target="_blank">Exam Time Table</a></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>-->
